@@ -1,0 +1,16 @@
+D:\egg-importer\EggImporter\obj\Release\net46\EggImporter.csproj.AssemblyReference.cache
+D:\egg-importer\EggImporter\obj\Release\net46\EggImporter.AssemblyInfoInputs.cache
+D:\egg-importer\EggImporter\obj\Release\net46\EggImporter.AssemblyInfo.cs
+D:\egg-importer\EggImporter\obj\Release\net46\EggImporter.csproj.CoreCompileInputs.cache
+D:\egg-importer\EggImporter\bin\Release\net46\EggImporter.dll
+D:\egg-importer\EggImporter\bin\Release\net46\EggImporter.pdb
+D:\egg-importer\EggImporter\bin\Release\net46\IndexRange.dll
+D:\egg-importer\EggImporter\bin\Release\net46\Newtonsoft.Json.dll
+D:\egg-importer\EggImporter\bin\Release\net46\PKHeX.Core.dll
+D:\egg-importer\EggImporter\bin\Release\net46\System.Buffers.dll
+D:\egg-importer\EggImporter\bin\Release\net46\System.Memory.dll
+D:\egg-importer\EggImporter\bin\Release\net46\System.Runtime.CompilerServices.Unsafe.dll
+D:\egg-importer\EggImporter\bin\Release\net46\System.ValueTuple.dll
+D:\egg-importer\EggImporter\obj\Release\net46\EggImporter.csproj.CopyComplete
+D:\egg-importer\EggImporter\obj\Release\net46\EggImporter.dll
+D:\egg-importer\EggImporter\obj\Release\net46\EggImporter.pdb

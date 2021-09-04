@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iazik8yFwl8F5fsPgQVkLUcuo5D9RbHXjHIB6GH/Cz1dUlJmd+guOHBFg0tD2WuW0YfhFwEDiTmQFn4CIgM7DQ==",
+  "success": true,
+  "projectFilePath": "D:\\egg-importer\\EggImporter\\EggImporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\indexrange\\1.0.0\\indexrange.1.0.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\pkhex.core\\21.8.6\\pkhex.core.21.8.6.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
