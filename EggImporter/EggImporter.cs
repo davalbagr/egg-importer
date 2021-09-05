@@ -356,14 +356,10 @@ namespace EggImporter
 
         public void AddToBoxesButtonClick(Object sender, EventArgs events)
         {
-            string url = "";
+            string url = "https://egg-gen-api.herokuapp.com/";
             if (this.maxivs.Checked)
             {
-                url = "https://egggen-api.gigalixirapp.com/maxivs/";
-            }
-            else
-            {
-                url = "https://egggen-api.gigalixirapp.com/";
+                url += "maxivs/";
             }
             int numbtogen = Int32.Parse(this.numbgen.Text);
             int eggchance = Int32.Parse(this.eggchance.Text);
